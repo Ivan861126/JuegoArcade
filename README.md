@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27615821/README.md)
+[README.md](https://github.com/user-attachments/files/27615989/README.md)
 # 🕹️ Neon Snake Arcade - Retro Synthwave
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,4 +35,4 @@ Si quieres clonar este proyecto y ejecutarlo en tu PC:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/Ivan861126/JuegoArcade.git](https://ivan861126.github.io/JuegoArcade/)
+   git clone https://github.com/Ivan861126/JuegoArcade.git
