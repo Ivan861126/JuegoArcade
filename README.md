@@ -35,4 +35,4 @@ Si quieres clonar este proyecto y ejecutarlo en tu PC:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Ivan861126/JuegoArcade.git
+   git clone [https://github.com/Ivan861126/JuegoArcade.git](https://ivan861126.github.io/JuegoArcade/)
